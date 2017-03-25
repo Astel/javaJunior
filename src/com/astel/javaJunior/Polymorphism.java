@@ -1,6 +1,7 @@
-package com.sample;
+package com.astel.javaJunior;
 
 class A{
+
     void foo(){
         System.out.printf("a");
     }
